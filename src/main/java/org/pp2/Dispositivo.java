@@ -12,5 +12,5 @@ public abstract class Dispositivo {
     private String modelo;
     private String nombre;
 
-    abstract void ejecutar(String comando);
+    public abstract void ejecutar(String comando);
 }
