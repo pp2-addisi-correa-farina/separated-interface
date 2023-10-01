@@ -1,4 +1,4 @@
-package org.pp2;
+package org.pp2.interfaces;
 
 
 import lombok.AllArgsConstructor;
