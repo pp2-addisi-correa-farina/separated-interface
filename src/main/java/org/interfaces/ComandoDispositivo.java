@@ -1,4 +1,4 @@
-package org.pp2.interfaces;
+package org.interfaces;
 
 public interface ComandoDispositivo {
     void ejecutar();

@@ -2,7 +2,7 @@ plugins {
     id 'java'
 }
 
-group 'org.pp2'
+group 'org.interfaces'
 version '1.0'
 
 java {
